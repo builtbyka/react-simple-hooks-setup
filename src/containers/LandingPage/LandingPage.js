@@ -4,7 +4,7 @@ const LandingPage = () => {
   
     return (
         <div>
-            Landing Page
+            Landing Page (/view/1 to view overview)
         </div>
       );
   };
