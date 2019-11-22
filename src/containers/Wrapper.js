@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import CssBaseline from '@material-ui/core/CssBaseline';
 
-//components
+// components
 import HeaderBanner from '../components/HeaderBanner/HeaderBanner';
 
 const Wrapper = (props) => {
@@ -10,7 +10,7 @@ const Wrapper = (props) => {
   return (
     <main style={{ maxWidth: 1024, margin: 'auto' }}>
       <CssBaseline />
-      <HeaderBanner/>
+      <HeaderBanner />
       {children}
     </main>
   );

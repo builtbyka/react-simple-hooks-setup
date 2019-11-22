@@ -5,6 +5,7 @@ module.exports = {
         "jest": true
     },
     'extends': [
+        "airbnb",
         'plugin:react/recommended'
     ],
     "globals": {

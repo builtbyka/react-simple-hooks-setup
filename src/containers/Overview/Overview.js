@@ -1,8 +1,7 @@
 import React from 'react';
 
 const Overview = () => {
-  
-    return (
+	return (
         <div>
             Overview 
         </div>

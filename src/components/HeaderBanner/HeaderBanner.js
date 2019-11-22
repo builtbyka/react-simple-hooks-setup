@@ -17,7 +17,7 @@ function MainTitleBanner(props) {
     <header className={classes.root}>
       <Grid container spacing={2}>
         <Grid item xs={4}>
-          <HeaderBannerTitle/>
+          <HeaderBannerTitle />
         </Grid>
         <Grid item xs={8}>
           <HeaderBannerFeatured feature={feature} />
